@@ -211,7 +211,7 @@ body.dark-theme {
 }
 
 .profile__info {
-  grid-template-columns: repeat(1, max-content);
+  
   justify-content: center;
   column-gap: 2.5rem;
 }
@@ -450,7 +450,7 @@ body.dark-theme {
   }
 
   .profile__info {
-    column-gap: 1.5rem;
+    column-gap: 0.5rem;
   }
   .profile__buttons {
     flex-direction: column;
